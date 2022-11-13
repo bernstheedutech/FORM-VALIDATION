@@ -36,3 +36,67 @@
     transform: rotate(360deg);
   }
 }
+
+
+.heading{
+
+ margin-top: -80px;
+
+}
+
+
+.form{
+  justify-content: center;
+
+ display: block;
+
+}
+
+
+
+.form form{
+
+
+  width: 400px;
+  height: 550px;
+  padding: 120px 0 0 0;
+  background-color: rgb(9, 3, 73);
+  border-radius: 14px;
+  border: 1px solid white;
+  box-shadow: 1px 2px 7px black;
+  color: white;
+  margin-top: 120px;
+  align-items: center;
+  margin-left: 45%;
+
+
+}
+
+hr {
+
+ width: 350px;
+ margin-top: 20px;
+ 
+
+}
+
+
+.submitbtn{
+
+width: 140px;
+height: 30px;
+margin-top: 20px;
+border-radius: 9px;
+background-color: rgb(8, 134, 94);
+color: white;
+font-size: larger;
+
+}
+
+
+.signin{
+
+color: white;
+text-decoration: none;
+
+}
